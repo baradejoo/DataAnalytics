@@ -15,7 +15,7 @@ Course of excercise:
 
 # Excercise 2
 
-Installation of [```cmdstanpy```](https://cmdstanpy.readthedocs.io/en/v0.9.68/index.html)
+Installation of [```cmdstanpy```](https://cmdstanpy.readthedocs.io/en/v0.9.68/index.html).
 1. Install ```cmdstanpy``` package
 2. Install cmdstan
 2. Create a dataset (as a dictionary) of F+L binary samples with F zeros and L ones, with F=number of letters in first name, L=number of letters in last name. Dictionary needs to consist of N=F+L, and y = list of samples.
