@@ -3,5 +3,5 @@ parameters {
 }
 
 model {
-    theta ~ gamma(1.25, 1.25)
+    theta ~ gamma(1.25, 1.25);
 }
