@@ -2,7 +2,7 @@ data {
     int<lower=1> N; // Number of data
     int<lower=1> M; // Number of covariates
     matrix[M, N] X;
-    arrray[N] real y;
+    array[N] real y;
 }
 
 parameters {
